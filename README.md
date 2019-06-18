@@ -7,6 +7,8 @@
 
 ## NoteBooks
 
+在线浏览: [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/inkydragon/AkDR/tree/master/notebooks/)
+
 + [单张截图处理流程示例](./notebooks/cut_workflow_with_notes.ipynb)  
     以单张截图做示例，展示了整体的处理流程。
 + [探索及数据处理笔记](./notebooks/explore_and_make_data.ipynb)  
